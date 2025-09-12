@@ -16,7 +16,7 @@
 
 - :seedling: Exploring the various fields within computer science.
 
-- :zap: In my free time, I enjoy gaming, playing soccer and learning a new skill (whether that's playing guitar, a new programming language, or soft skills I enjoy them all).
+- :zap: In my free time, I enjoy gaming, playing soccer and learning a new skill (whether that's playing guitar, a new programming language, or soft skills, I enjoy them all).
 
 - :bulb: Ready to innovate, code and collaborate with other brilliant minds!
 
